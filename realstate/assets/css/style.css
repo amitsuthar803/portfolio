@@ -3,6 +3,7 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
+  --width: 5rem;
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
@@ -1118,14 +1119,12 @@ body.dark-theme {
 
   .popular__container {
     padding-top: 3rem;
-    
   }
 
   .popular__card {
     width: 300px;
     /* top right-left bottom */
     padding: 0.75rem 0.75rem 2rem;
-    
   }
 
   .popular__data {
@@ -1136,7 +1135,6 @@ body.dark-theme {
   .contact__container {
     align-items: flex-start;
     column-gap: 5rem;
-
   }
 
   .value__orbe,
